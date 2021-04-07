@@ -47,11 +47,11 @@ export const Container = styled.div`
 export const HeaderWrapper = styled.div`
     position:absolute;
     top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 
-  clip: rect(auto, auto, auto,auto)
+    clip: rect(auto, auto, auto,auto)
 `
 
 export const Header = styled.header`
